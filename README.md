@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlabasterStone
 - 👀 I’m interested in c++, Python, Node.js, Machine Learning
 - 🌱 I’m currently learning Multi Linear Regression
-- 💞️ I’m looking to collaborate on WebAssembly, Scratch and RISC-V Simulation
+- 💞️ I’m looking to collaborate on WebAssembly, Scratch and Digital Circuit Simulation
 - 📫 You can reach me on :
   - Wechat: @INT0x19
   - QQ: @1079743098
