@@ -5,8 +5,7 @@
 - 💞️ I’m looking to collaborate on WebAssembly, Scratch and Digital Circuit Simulation
 - 📫 You can reach me on :
   - Wechat: @INT0x19
-  - Dingtalk: @jimmy090703
-  - Email: TheAlabasterStone@outlook.com
+  - Email: tourkveg@outlook.com
   - Luogu: uid@671179
   - Zhihu: @AlabasterStone
 <!---
