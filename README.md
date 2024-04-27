@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlabasterStone
+- 👋 Hi, I’m @tourkveg
 - 👀 I’m interested in C++, Python, Node.js, Machine Learning
 - 🎯 I’m focusing on Olympiad in Informatics
 - 🌱 I’m currently studying
@@ -7,7 +7,7 @@
   - Wechat: @INT0x19
   - Email: tourkveg@outlook.com
   - Luogu: uid@671179
-  - Zhihu: @AlabasterStone
+  - Zhihu: @tourkveg
 <!---
 AlabasterStone/AlabasterStone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
