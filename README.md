@@ -10,5 +10,4 @@ You're welcomed to reach me at the following ways:
 - Email:
   - int0x19@outlook.com ***(mainly used)***
   - tourkveg@proton.me ***(for sensitive topics)***
-- WeChat: **@int0x19** (wxid)
-- Zhihu: **@tourkveg**
+
